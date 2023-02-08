@@ -38,19 +38,23 @@
 <span class="emphasized">cd MERN-Social-Media</p></span>
 </p>
 
-<p>Install the dependencies.</p>
-<p class="bold">npm install</p>
+
+<p>Install the dependencies:</p>
+`npm install`
 <p> FrontEnd </br>
 react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material</p>
 
 <p> BackEnd </br>
 express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose </p>
 
-<p>Start the local MongoDB server.</p>
-<p class="bold">mongod </p>
+<p>Start the local MongoDB server:</p>
+`mongod`
 
-<p>Start the server.</p>
-<p class="bold">npm run client</p>
+<p>Start the server:</p>
+`npm run start`
+
+<p>Start the client:</p>
+`npm run client`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
