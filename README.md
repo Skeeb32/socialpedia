@@ -33,7 +33,7 @@
 ## Installing:
 <p>Clone the repository to your local machine and navigate to the project directory.</p>
 
-<span class="emphasized">git clone https://github.com/YOUR-USERNAME/MERN-Social-Media.git</span></br>
+<span class="emphasized">git clone https://github.com/Skeeb32/socialpedia.git</span></br>
 <span class="emphasized">cd MERN-Social-Media</p></span>
 </p>
 
