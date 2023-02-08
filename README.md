@@ -31,6 +31,7 @@
 <p class="bold"> • Node.js</p>
 
 ## Installing:
+<p>Create a folder with mkdir in terminal and name the folder MERN-Social-Media.</p>
 <p>Clone the repository to your local machine and navigate to the project directory.</p>
 
 <span class="emphasized">git clone https://github.com/Skeeb32/socialpedia.git</span></br>
