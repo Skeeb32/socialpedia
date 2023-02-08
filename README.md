@@ -39,22 +39,23 @@
 </p>
 
 
-<p>Install the dependencies:</p>
-`npm install`
-<p> FrontEnd </br>
-react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material</p>
+<p>Install the dependencies:
+`npm install`</p>
+</br>
+<p class="bold">FrontEnd</p>
+<p>react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material</p>
 
-<p> BackEnd </br>
-express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose </p>
+<p class="bold">BackEnd</p> 
+<p>express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose </p>
 
-<p>Start the local MongoDB server:</p>
-`mongod`
+<p>Start the local MongoDB server:
+`mongod`</p>
 
-<p>Start the server:</p>
-`npm run start`
+<p>Start the server:
+`npm run start`</p>
 
-<p>Start the client:</p>
-`npm run client`
+<p>Start the client:
+`npm run client`</p>
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
