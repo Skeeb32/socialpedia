@@ -38,14 +38,13 @@
 <span class="emphasized">cd MERN-Social-Media</p></span>
 </p>
 
-<h1>Install the dependencies.</h1>
-<p class="bold">npm install</p> </br>
+<p>Install the dependencies.</p>
+<p class="bold">npm install</p>
 <p> FrontEnd </br>
 react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material</p>
 
 <p> BackEnd </br>
 express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose </p>
-
 
 <p>Start the local MongoDB server.</p>
 <p class="bold">mongod </p>
