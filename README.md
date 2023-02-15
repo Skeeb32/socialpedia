@@ -76,3 +76,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <a href=“https://mern.js.org/“ target=“_new”>MERN Stack Guide</a> - https://mern.js.org/ </br> 
 <a href=“https://reactjs.org/docs/hooks-intro.html“ target=“_new”>React Hooks Documentation</a> - https://reactjs.org/docs/hooks-intro.html
 
+<p align="center">
+  <img  alt=“Sociopedia height="500px" width="1100px" src="server/public/assets/Screenshot 2023-02-07 at 6.03.42 PM.png">
+</p>
+
