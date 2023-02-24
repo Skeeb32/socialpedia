@@ -63,11 +63,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Deployment:
 <p>You can deploy the application to a hosting platform like Heroku or AWS.</p>
 
-## Built With:
-<a href=“https://www.mongodb.com/“ target=“_new”>• MongoDB</a> - NoSQL database </br> 
-<a href=“https://www.mongodb.com/“ target=“_new”>• Express</a> - Node.js web application framework </br> 
-<a href=“https://www.mongodb.com/“ target=“_new”>• React</a> - JavaScript library for building user interfaces </br> 
-<a href=“https://www.mongodb.com/“ target=“_new”>• Node.js</a> - JavaScript runtime environment </br> 
+## Programming Languages:
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='33'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='33'/>
+
+## Technologies: 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> <img 
+src='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png' width='33'/> <img 
+src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='30' />
+
+
+
 
 ## Authors
 <a href=“https://www.github.com/skeeb32“ target=“_new”>Skeeb32 Github</a> - https://www.github.com/skeeb32
