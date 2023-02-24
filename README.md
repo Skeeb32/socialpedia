@@ -64,8 +64,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <p>You can deploy the application to a hosting platform like Heroku or AWS.</p>
 
 ## Programming Languages:
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='33'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='33'/>
 
 ## Technologies: 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> <img 
